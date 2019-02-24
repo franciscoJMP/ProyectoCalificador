@@ -16,7 +16,7 @@ and open the template in the editor.
             Clave:
             <input type="password" name="clave"/>
             <input type="submit" name="accion" value="Acceder"/>           
-            
+            <input type="text" placeholder="hola"/>
         </form>
          <br/>
          
